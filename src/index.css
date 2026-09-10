@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-feature-settings: "kern" 1;
+}
+
+::selection {
+  background: #b8722e;
+  color: #efe9dc;
+}
+
+.texture-grain {
+  background-image: radial-gradient(#211f1b12 0.5px, transparent 0.5px);
+  background-size: 3px 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
