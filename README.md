@@ -12,7 +12,7 @@ transcript versus a fixed-size latent grid that only re-settles.
 
 ## Live Demo
 
-Try the Explainer :(https://data-force-submission.vercel.app)
+Try the Explainer : [https://data-force-submission.vercel.app](https://data-force-submission.vercel.app)
 
 ## The one claim
 
@@ -99,7 +99,7 @@ not been published.
 #### Steps
 
 ```bash
-git clone [https://github.com/aldinus123abc-ui/DataForce_submission]
+git clone https://github.com/aldinus123abc-ui/DataForce_submission
 cd bdh-lesson
 npm install
 npm run dev
@@ -127,7 +127,7 @@ src/
 
 ## Credits
 
-This Explainer was created by L Sushanta Singha, Nishant Singh, Gourish Kurmi and Ram Kishor Yadav at the National Institute of Technology, Silchar.
+This Explainer was created by [L Sushanta Singha](https://github.com/aldinus123abc-ui), [Nishant Singh](https://github.com/nishan1-singh), [Gourish Kurmi](https://github.com/gourishkurmi-web) and [Ram Kishor Yadav](https://github.com/ramkishor123-ui) at the National Institute of Technology, Silchar.
 
 ## License
 
